@@ -1,4 +1,4 @@
-body{background-image:url(.././Imagenes/chocolate.jpg); background-attachment: fixed;}
+body{background-image:url(.././Imagenes/chocolate.jpeg); background-attachment: fixed;}
 h1{ font-size: 80px; color:#F99788; display: flex;justify-content: center;}
 .principal{ background-image: url(../Imagenes/portada3.jpg);font-family:'Lily Script One',cursive; font-size:100px; color:#553932; font-stretch: ultra-condensed;}
 nav{ background-image: url(../Imagenes/);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
