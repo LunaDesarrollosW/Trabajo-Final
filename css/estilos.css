@@ -1,0 +1,14 @@
+body{background-image:url(.././Imagenes/chocolate.jpg); background-attachment: fixed;}
+h1{ font-size: 80px; color:#F99788; display: flex;justify-content: center;}
+.principal{ background-image: url(../Imagenes/portada3.jpg);font-family:'Lily Script One',cursive; font-size:100px; color:#553932; font-stretch: ultra-condensed;}
+nav{ background-image: url(../Imagenes/);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
+section{ background-color: ; padding: 5px ; margin:15px;display: flex; justify-content:space-between;}
+.parrafo1{text-align: center;}
+.galeria{display: flex;justify-content: center; margin:25px;}
+.tarjetaP{background-color:#F9C1B8; font-size:23px;font:color:black; text-align: center;
+border-radius: 25px;
+margin: auto;}
+.card-text{font-size: 20px; font:color:black;}
+p{font-size: 48px ; color:#FCFAF9 ;}
+li{color:#FCFAF9 }
+aside{ font-size: 28px; display: flex;justify-content: flex-end;box-sizing: border-box;border-radius:5px}
