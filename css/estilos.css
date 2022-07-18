@@ -1,14 +1,19 @@
-body{background-image:url(.././Imagenes/chocolate.jpeg); background-attachment: fixed;}
+body{background-image:url(../Imagenes/chocolate.jpeg); background-attachment: fixed;}
 h1{ font-size: 80px; color:#F99788; display: flex;justify-content: center;}
-.principal{ background-image: url(../Imagenes/portada3.jpg);font-family:'Lily Script One',cursive; font-size:100px; color:#553932; font-stretch: ultra-condensed;}
+.principal{ background-image: url(../Imagenes/portada3.jpg);font-family:'Lily Script One',cursive; font-size:90px; color:#553932; font-stretch: ultra-condensed;}
 nav{ background-image: url(../Imagenes/);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
 section{ background-color: ; padding: 5px ; margin:15px;display: flex; justify-content:space-between;}
-.parrafo1{text-align: center;}
+.parrafo1{text-align: center;font-size: 50px;}
 .galeria{display: flex;justify-content: center; margin:25px;}
 .tarjetaP{background-color:#F9C1B8; font-size:23px;font:color:black; text-align: center;
 border-radius: 25px;
 margin: auto;}
 .card-text{font-size: 20px; font:color:black;}
-p{font-size: 48px ; color:#FCFAF9 ;}
+h5{font-size: 35px;}
+p{font-size: 35px ; color:#FCFAF9 ;}
 li{color:#FCFAF9 }
-aside{ font-size: 28px; display: flex;justify-content: flex-end;box-sizing: border-box;border-radius:5px}
+aside{ font-size: 28px; display: flex;justify-content: flex-end;box-sizing: border-box;border-radius:5px ;margin: 20px;}
+footer{margin:60px; font color: black;}
+.tarjetasp2{display: flex;justify-content:space-around;}
+.cards2{display: flex;justify-content: space-around;}
+.card4{border-radius: 30px;}
