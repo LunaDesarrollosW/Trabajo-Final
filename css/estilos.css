@@ -6,7 +6,7 @@ section{ background-color: ; padding: 5px ; margin:15px;display: flex; justify-c
 .parrafo1{text-align: center;font-size: 50px;}
 .galeria{display: flex;justify-content: center; margin:25px;}
 .tarjetaP{background-color:#F9C1B8; font-size:23px;font:color:black; text-align: center;
-border-radius: 25px;
+border-radius:;
 margin: auto;}
 .card-text{font-size: 20px; font:color:black;}
 h5{font-size: 35px;}
@@ -17,3 +17,29 @@ footer{margin:60px; font color: black;}
 .tarjetasp2{display: flex;justify-content:space-around;}
 .cards2{display: flex;justify-content: space-around;}
 .card4{border-radius: 30px;}
+
+.buttons {
+  min-width: 900px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons a {
+  text-decoration: none;
+  font-size: 28px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  background: #314652;
+  color: #f1f1f1;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+  transition: all .4s ease-in-out;
+}
+
+.buttons a:hover {
+  transform: scale(1.2);
+}
+.final{background-color: black; font:color:#F9F7F6}
+h6{ color:white;}
