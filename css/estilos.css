@@ -2,6 +2,7 @@ body{background-image:url(../Imagenes/chocolate.jpeg); background-attachment: fi
 h1{ font-size: 80px; color:#F99788; display: flex;justify-content: center;}
 .principal{ background-image: url(../Imagenes/portada3.jpg);font-family:'Lily Script One',cursive; font-size:90px; color:#553932; font-stretch: ultra-condensed;}
 nav{ background-image: url(../Imagenes/);font-size:47px; display: flex; justify-content: space-around;font-family: monospace; font-weight: bolder;}
+.subtitulo{display: flex;justify-content: center;font-size: 25px;}
 section{ background-color: ; padding: 5px ; margin:15px;display: flex; justify-content:space-between;}
 .parrafo1{text-align: center;font-size: 50px;}
 .galeria{display: flex;justify-content: center; margin:25px;}
